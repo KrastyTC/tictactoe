@@ -1,2 +1,5 @@
 ﻿  TicTacToe.c
+C:\Users\user\source\repos\TicTacToe\TicTacToe.c(152,1): warning C4002: too many arguments for function-like macro invocation 'CreateWindowW'
+C:\Users\user\source\repos\TicTacToe\TicTacToe.c(298,9): warning C4101: 'hdc': unreferenced local variable
+C:\Users\user\source\repos\TicTacToe\TicTacToe.c(364): warning C4715: 'GetRectID': not all control paths return a value
   TicTacToe.vcxproj -> C:\Users\user\source\repos\TicTacToe\x64\Debug\TicTacToe.exe
